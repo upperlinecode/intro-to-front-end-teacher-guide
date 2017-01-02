@@ -69,7 +69,7 @@
   </td>
 </table>
 
-### Lesson Agenda in Brief
+### Lesson Agenda in Brief (50 minutes)
 <table>
   <tr>
     <td> 1. </td>
@@ -100,7 +100,7 @@
   <tr>
     <td> 5. </td>
     <td> 15 minutes </td>
-    <td colspan="7"> Students add `<img>` and `<a>` and add attributes. </td>
+    <td colspan="7"> Students add &lt;img&gt; and &lt;a&gt; and add attributes. </td>
   </tr>
 
   <tr>
