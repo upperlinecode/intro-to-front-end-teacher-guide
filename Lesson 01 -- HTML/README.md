@@ -70,10 +70,10 @@
 </table>
 
 ### Materials
-. Slides
-. Index cards
-. Computers
-. HTML Cheat Sheet
++ Slides
++ Index cards
++ Computers
++ HTML Cheat Sheet
 
 ### Lesson Agenda in Brief (50 minutes)
 <table>
@@ -93,7 +93,7 @@
     <td> 3. </td>
     <td> 15 minutes </td>
 
-    <td colspan="7"> Work-Time: Students recreate boilerplate and add several attribute-less elements </td>
+    <td colspan="7"> Work-Time: Students recreate boilerplate and add several attribute-less elements as time permits </td>
   </tr>
 
   <tr>
@@ -122,8 +122,8 @@
 
   <tr>
     <th> Lesson Segment  </th>
-    <th colspan="4"> Teacher Action </th>
-    <th colspan="4"> Student action </th>
+    <th colspan="4"> Teacher Actions </th>
+    <th colspan="4"> Student Actions </th>
   </tr>
 
 
@@ -161,9 +161,10 @@
 				<li> HTML is necessary because computers don't communicate with pictures; when you go online, your computer makes a request to a website, and that website's servers send back a long chunk of text that is 'read' by your computer and rendered into all the sorts of fancy memes and facebook posts you love to see.  </li>
 				<li> Teacher explains that all HTML is contained within blocks of code called <b> elements </b> which, are opened with an opening tag in angle brackets, eg. &lt;html&gt; and closed with an identical tag that has a / in it. For example
 
-				```
+				<br>
+				<p>
 				 <b> &lt;body&gt;  &lt;p&gt; </b> I am a paragraph tag (get it--"p" for paragraph? ) inside a "body" tag  <b> &lt;/p&gt;   &lt;/body&gt; </b>
-				```
+				</p>
 
 				 </li>
 				<li> Teacher explains that today, their task will be to recreate the basic code they are given according to the directions of the activity; remember, it's ok to feel a little lost, and the goal is to experiment modifying and expanding on existing code though experimentation with the help of the student guide. </li>
@@ -179,16 +180,48 @@
 		</td>
   </tr>
 
+
+	<!-- Work Time  -->
   <tr>
-    <td> Student Work Time  </td>
-    <td colspan="4"> Teacher Action </td>
-    <td colspan="4"> Student action </td>
+    <td> <p><b>Student Work Time </b></p> <p> (15 mins)</p>  </td>
+
+		<!-- Worktime Teacher -->
+    <td colspan="4">
+			<ul>
+				<li>As students begin, teacher sets a 15 minute timer on the board to keep the lesson on pace. </li>
+				<li>Teacher(s) circulate and provide assistance as necessary; teachers should push students to address their own misunderstandings, where possible, by referencing the student guide. </li>
+			</ul>
+		</td>
+
+
+		<!-- Worktime Student -->
+    <td colspan="4">
+			<ul>
+				<li> Students access the student guide and start working according to the directions given on the student guide </li>
+				<li> Students' first order of business will be to copy the boilerplate identically as given in the guide. They then can go on to add various elements according to the directions.  </li>
+			</ul>
+		</td>
   </tr>
 
   <tr>
-    <td> Check-in  </td>
-    <td colspan="4"> Teacher Action </td>
-    <td colspan="4"> Student action </td>
+		<!-- Checkin  -->
+    <td> <p><b>Checkin </b></p> <p> (5 mins)</p>   </td>
+
+		<!-- Checkin Teacher-->
+    <td colspan="4">
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+		 </td>
+
+		 <!-- Checkin Student -->
+    <td colspan="4">
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+		</td>
   </tr>
 
   <tr>
