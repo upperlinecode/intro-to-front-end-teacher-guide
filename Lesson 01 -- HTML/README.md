@@ -69,6 +69,12 @@
   </td>
 </table>
 
+### Materials
+. Slides
+. Index cards
+. Computers
+. HTML Cheat Sheet
+
 ### Lesson Agenda in Brief (50 minutes)
 <table>
   <tr>
@@ -78,7 +84,7 @@
   </tr>
   <tr>
     <td> 2. </td>
-    <td> 05 Minutes </td>
+    <td> 05 minutes </td>
 
     <td colspan="7">  Mini-Lesson: How HTML works</td>
   </tr>
@@ -108,6 +114,5 @@
     <td> 05 minutes </td>
     <td colspan="7"> Exit-Ticket: spot the error. </td>
   </tr>
-
 
 </table>
