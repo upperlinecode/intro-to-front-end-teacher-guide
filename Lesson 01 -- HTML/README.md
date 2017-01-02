@@ -116,3 +116,51 @@
   </tr>
 
 </table>
+
+### Procedure
+<table>
+
+  <tr>
+    <th> Lesson Segment  </td>
+    <th colspan="4"> Teacher Action </td>
+    <th colspan="4"> Student action </td>
+  </tr>
+
+
+  <tr>
+    <td> Do Now  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+  <tr>
+    <td> Mini-Lesson  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+  <tr>
+    <td> Student Work Time  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+  <tr>
+    <td> Check-in  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+  <tr>
+    <td> Student Work Time  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+  <tr>
+    <td> Closing  </td>
+    <td colspan="4"> Teacher Action </td>
+    <td colspan="4"> Student action </td>
+  </tr>
+
+</table>
