@@ -159,7 +159,13 @@
 				<li> Teacher praises close observations from students and explains that the skill they just practiced--observing and making inferences about unknown code--is crucial to the proficient coder's skillset, and part of learning to code is always feeling a little lost as you try to figure out a new language   </li>
 				<li> Teacher reveals that what they were looking at was actually "Hyper-Text Markup Language", a long and fancy way of saying "text with extra stuff in it", that nearly everyone just refers to as <b>HTML.</b> </li>
 				<li> HTML is necessary because computers don't communicate with pictures; when you go online, your computer makes a request to a website, and that website's servers send back a long chunk of text that is 'read' by your computer and rendered into all the sorts of fancy memes and facebook posts you love to see.  </li>
-				<li> Teacher explains that all HTML is contained within blocks of code called <b> elements </b> which, are opened with an opening tag in angle brackets, eg. &lt;html&gt; and closed with an identical tag that has a / in it. For example  <b> &lt;body&gt;  &lt;p&gt; </b> I am a paragraph tag (get it--"p" for paragraph? ) inside a "body" tag  <b> &lt;/p&gt;   &lt;/body&gt; </b></li>
+				<li> Teacher explains that all HTML is contained within blocks of code called <b> elements </b> which, are opened with an opening tag in angle brackets, eg. &lt;html&gt; and closed with an identical tag that has a / in it. For example
+
+				```
+				 <b> &lt;body&gt;  &lt;p&gt; </b> I am a paragraph tag (get it--"p" for paragraph? ) inside a "body" tag  <b> &lt;/p&gt;   &lt;/body&gt; </b>
+				```
+
+				 </li>
 				<li> Teacher explains that today, their task will be to recreate the basic code they are given according to the directions of the activity; remember, it's ok to feel a little lost, and the goal is to experiment modifying and expanding on existing code though experimentation with the help of the student guide. </li>
 				<li> Teacher directs students to the repository and to being the activity. </li>
 			</ul>
