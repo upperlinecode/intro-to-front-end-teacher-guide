@@ -129,7 +129,7 @@
 
   <tr>
     <td>
-			<p>Do Now </p>
+			<p> <b> Do Now </b></p>
 			<p> (5 min) </p>
 		</td>
     <td colspan="4">
