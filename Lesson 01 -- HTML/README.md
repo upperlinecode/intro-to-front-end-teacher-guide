@@ -121,9 +121,9 @@
 <table>
 
   <tr>
-    <th> Lesson Segment  </td>
-    <th colspan="4"> Teacher Action </td>
-    <th colspan="4"> Student action </td>
+    <th> Lesson Segment  </th>
+    <th colspan="4"> Teacher Action </th>
+    <th colspan="4"> Student action </th>
   </tr>
 
 
