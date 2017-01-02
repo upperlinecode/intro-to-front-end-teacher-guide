@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td> 2. </td>
-    <td> 05 minutes </td>
+    <td> 07 minutes </td>
 
     <td colspan="7">  Mini-Lesson: How HTML works</td>
   </tr>
@@ -111,7 +111,7 @@
 
   <tr>
     <td> 6. </td>
-    <td> 05 minutes </td>
+    <td> 03 minutes </td>
     <td colspan="7"> Exit-Ticket: spot the error. </td>
   </tr>
 
@@ -136,7 +136,7 @@
 			<ul>
 				<li> Teacher Welcomes Students, directs them to take an index card, have a seat, and start the do now</li>
 				<li> As students settle, teacher tells students that they aren't supposed to be familiar with the code they're looking at, but encourages them to make at least three observations about the boilerplate and at least one inference as to what it might do; look closely, and take a guess</li>
-				<li> ~4 mminutes, teacher calls on one to two students to share their responses as a transition to the Mini-Lesson</li>
+				<li> ~4 mminutes, teacher calls on one to two students to share their responses to take an initial informal assessment of student prior knowledge and transition to the Mini-Lesson</li>
 			</ul>
 		</td>
     <td colspan="4">
@@ -148,17 +148,27 @@
   </tr>
 
   <tr>
-    <td> Mini-Lesson  </td>
+    <td>
+			<p> <b> Mini-Lesson </b></p>
+			<p> (7 min) </p>
+		</td>
+
+		<!-- Mini Lesson Teacher  -->
     <td colspan="4">
 			<ul>
-				<li> </li>
-				<li> </li>
+				<li> Teacher praises close observations from students and explains that the skill they just practiced--observing and making inferences about unknown code--is crucial to the proficient coder's skillset, and part of learning to code is always feeling a little lost as you try to figure out a new language   </li>
+				<li> Teacher reveals that what they were looking at was actually "Hyper-Text Markup Language", a long and fancy way of saying "text with extra stuff in it", that nearly everyone just refers to as <b>HTML.</b> </li>
+				<li> HTML is necessary because computers don't communicate with pictures; when you go online, your computer makes a request to a website, and that website's servers send back a long chunk of text that is 'read' by your computer and rendered into all the sorts of fancy memes and facebook posts you love to see.  </li>
+				<li> Teacher explains that all HTML is contained within blocks of code called <b> elements </b> which, are opened with an opening tag in angle brackets, eg. &lt;html&gt; and closed with an identical tag that has a / in it. For example  <b> &lt;body&gt;  &lt;p&gt; </b> I am a paragraph tag (get it--"p" for paragraph? ) inside a "body" tag  <b> &lt;/p&gt;   &lt;/body&gt; </b></li>
+				<li> Teacher explains that today, their task will be to recreate the basic code they are given according to the directions of the activity; remember, it's ok to feel a little lost, and the goal is to experiment modifying and expanding on existing code though experimentation with the help of the student guide. </li>
+				<li> Teacher directs students to the repository and to being the activity. </li>
 			</ul>
 		</td>
+
+		<!-- Mini-Lesson Student -->
     <td colspan="4">
 			<ul>
-				<li> </li>
-				<li> </li>
+				<li> Students observe and listen to brief Mini-Lesson; students may take notes if they wish. </li>
 			</ul>
 		</td>
   </tr>
