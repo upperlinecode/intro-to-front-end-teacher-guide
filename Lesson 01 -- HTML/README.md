@@ -128,11 +128,14 @@
 
 
   <tr>
-    <td> Do Now  </td>
+    <td>
+			<p>Do Now </p>
+			<p> (5 minutes) </p>
+		</td>
     <td colspan="4">
 			<ul>
 				<li> Teacher Welcomes Students, directs them to take an index card, have a seat, and start the do now</li>
-				<li> As students settle, teacher tells students that they aren't supposed to be familiar with the code they're looking at, but encourages them to make at least three observations about the boilerplate and at least one inference (guess) as to what it might do</li>
+				<li> As students settle, teacher tells students that they aren't supposed to be familiar with the code they're looking at, but encourages them to make at least three observations about the boilerplate and at least one inference as to what it might do; look closely, and take a guess</li>
 				<li> ~4 mminutes, teacher calls on one to two students to share their responses as a transition to the Mini-Lesson</li>
 			</ul>
 		</td>
