@@ -1,5 +1,7 @@
 # Introduction to Web Development, Lesson One: HTML
 
+### Objectives and Plan for Assessment
+
 <table>
 
   <!-- Head -->
@@ -37,7 +39,7 @@
     <td>
       <ul>
       	 <li> The need to keep within conventions when writing HTML </li>
-         <li> New elements to experiment with <li>
+         <li> New elements to experiment with </li>
        </ul>
     </td>
   </tr>
@@ -66,3 +68,11 @@
     </ul>
   </td>
 </table>
+
+### Lesson Agenda in Brief
+1. Observational Do-Now
+2. Mini-Lesson: How HTML works
+3. Work-Time: Students recreate boilerplate and add several attribute-less elements
+4. Check-in: Shoutouts and overview of attributes. 
+5. Students add `<img>` and `<a>` and add attributes.
+6. Exit-Ticket: spot the error.
