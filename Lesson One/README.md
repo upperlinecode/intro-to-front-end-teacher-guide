@@ -16,7 +16,7 @@
 
   <tr>
 		<!-- Focus Question -->
-	  <td>
+	  <td valign="top">
       	How do we use "Hyper-Text Markup Language" to create a basic webpage ?
     </td>
 
@@ -111,10 +111,3 @@
 
 
 </table>
-
-1. Observational Do-Now
-2. Mini-Lesson: How HTML works
-3. Work-Time: Students recreate boilerplate and add several attribute-less elements
-4. Check-in: Shoutouts and overview of attributes.
-5. Students add `<img>` and `<a>` and add attributes.
-6. Exit-Ticket: spot the error.
