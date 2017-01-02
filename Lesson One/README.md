@@ -21,12 +21,12 @@
     </td>
 
     <!-- SWBAT -->
-    <td>
+    <td valign="top">
        By the end of the lesson, students will be able to create a basic website properly using a variety of HTML tags.
     </td>
 
     <!-- Students will know that...  -->
-    <td>
+    <td valign="top">
       <ul>
         <li> Web browsers take in text (in the form of HTML, and render it into a visual page)</li>
         <li> HTML elements are the fundmental building blocks of webpages</li>
@@ -36,7 +36,7 @@
     </td>
 
     <!-- Students will think about  -->
-    <td>
+    <td valign="top">
       <ul>
       	 <li> The need to keep within conventions when writing HTML </li>
          <li> New elements to experiment with </li>
