@@ -73,12 +73,12 @@
 <table>
   <tr>
     <td> 1. </td>
-    <td> 5 minutes </td>
+    <td> 05 minutes </td>
     <td colspan="7"> Observational Do-Now</td>
   </tr>
   <tr>
     <td> 2. </td>
-    <td> 5 Minutes </td>
+    <td> 05 Minutes </td>
 
     <td colspan="7">  Mini-Lesson: How HTML works</td>
   </tr>
@@ -92,7 +92,7 @@
 
   <tr>
     <td> 4. </td>
-    <td> 5 minutes </td>
+    <td> 05 minutes </td>
 
     <td colspan="7"> Shoutouts and overview of attributes. </td>
   </tr>
@@ -105,7 +105,7 @@
 
   <tr>
     <td> 6. </td>
-    <td> 5 minutes </td>
+    <td> 05 minutes </td>
     <td colspan="7"> Exit-Ticket: spot the error. </td>
   </tr>
 
