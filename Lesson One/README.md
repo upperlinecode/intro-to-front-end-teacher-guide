@@ -73,30 +73,39 @@
 <table>
   <tr>
     <td> 1. </td>
+    <td> 5 minutes </td>
     <td colspan="7"> Observational Do-Now</td>
   </tr>
   <tr>
     <td> 2. </td>
+    <td> 5 Minutes </td>
+
     <td colspan="7">  Mini-Lesson: How HTML works</td>
   </tr>
 
   <tr>
     <td> 3. </td>
+    <td> 15 minutes </td>
+
     <td colspan="7"> Work-Time: Students recreate boilerplate and add several attribute-less elements </td>
   </tr>
 
   <tr>
     <td> 4. </td>
+    <td> 5 minutes </td>
+
     <td colspan="7"> Shoutouts and overview of attributes. </td>
   </tr>
 
   <tr>
     <td> 5. </td>
+    <td> 15 minutes </td>
     <td colspan="7"> Students add `<img>` and `<a>` and add attributes. </td>
   </tr>
 
   <tr>
     <td> 6. </td>
+    <td> 5 minutes </td>
     <td colspan="7"> Exit-Ticket: spot the error. </td>
   </tr>
 
