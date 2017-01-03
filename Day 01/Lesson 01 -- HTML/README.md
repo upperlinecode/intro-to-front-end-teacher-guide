@@ -31,7 +31,7 @@
         <li> Web browsers take in text (in the form of HTML, and render it into a visual page)</li>
         <li> HTML elements are the fundmental building blocks of webpages</li>
         <li> Elements are defined by "tags" enclosed in angle brackets (eg. `<span> Hello! </span>` )</li>
-        <li> Elements act as containers, and each subsequent element they contain are their 'child' elements</li>  
+        <!-- <li> Elements act as containers, and each subsequent element they contain are their 'child' elements</li>   -->
       </ul>
     </td>
 
@@ -64,7 +64,7 @@
     <ul>
       <li> Accurately recreated boilerplate </li>
       <li> Use of at least eight different html tags</li>
-      <li> Proper indentation of HTML </li>
+      <!-- <li> Proper indentation of HTML </li> -->
     </ul>
   </td>
 </table>
