@@ -42,7 +42,8 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
 | Gross :sob:    | Needs work :confused: | Work at Google! :heart_eyes: |
 | :------------- | :------------- | :----------------|
 | `<!DOCTYPE html><html><head><body></body></html>`       |
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <body>
