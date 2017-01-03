@@ -42,13 +42,20 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
 
 <table>
   <tr>
-    <th> </th>
-    <th></th>
-    <th> </th>
+    <th> Gross :scream: </th>
+    <th> Still needs work :confused: </th>
+    <th> Go work at google! :heart_eyes: </th>
   </tr>
   <tr>
-    <td>  &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt; </td>
-    <td>  &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;  </td>
+    <td>  &lt;!DOCTYPE html&gt; &lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt; </td>
+    <td>  
+      &lt;!DOCTYPE html&gt;
+      &lt;html&gt;
+      &lt;head&gt;
+      &lt;body&gt;
+      &lt;/body&gt;
+      &lt;/html&gt;  
+    </td>
     <td>  &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;  </td>
   </tr>
 </table>
