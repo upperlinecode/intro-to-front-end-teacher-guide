@@ -39,15 +39,16 @@ The most basic HTML tags are simply `<html>` and `</html>`, and **all the conten
 
 On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then after the head tags, add `<body>` tags--and remember that every tag also needs a closing tag. At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
 
-| Gross :sob:    | Needs work :confused: | Work at Google! :heart_eyes: |
-| :------------- | :------------- | :----------------|
-| `<!DOCTYPE html><html><head><body></body></html>`       |
-```
-<!DOCTYPE html>
+| Gross :sob:                                             | Needs work :confused: | Work at Google! :heart_eyes: |
+| :-------------                                          | :-------------        | :----------------            |
+| `<!DOCTYPE html><html><head><body></body></html>`       | `<!DOCTYPE html>`     | `<!DOCTYPE html>`            |
+|                                                         | `<head>`              | `    <head>`                 |
+|                                                         | `</head>`             | `    </head`                 |
+
+
+
 <html>
 <head>
 <body>
 </body>
 </html>
-```      
-||
