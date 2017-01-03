@@ -253,7 +253,7 @@
 
 <!-- closing -->
   <tr>
-    <td> Closing  </td>
+    <td>  <p><b>Closing </b></p> <p> (3 mins)</p>  </td>
 
 		<!-- Closing teacher -->
     <td colspan="4">
