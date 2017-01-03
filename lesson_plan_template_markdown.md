@@ -1,4 +1,4 @@
-# Lesson 02: HTML Practice Mini-Lab
+<!-- # Lesson 02: HTML Practice Mini-Lab
 
 
 ### Objectives and Plan for Assessment
@@ -65,11 +65,11 @@
 
     </td>
 
-    <!-- Characteristics of model assessment -->
     <td colspan="2">
       <ul>
+        <!-- <li> Accurately recreated boilerplate </li>
+        <li> Use of at least eight different html tags</li> -->
         <li> Proper indentation of HTML </li>
-        <li> Students correctly link to a side page </li>
       </ul>
     </td>
   </tr>
@@ -236,4 +236,4 @@
 		</td>
   </tr>
 
-</table>
+</table> -->

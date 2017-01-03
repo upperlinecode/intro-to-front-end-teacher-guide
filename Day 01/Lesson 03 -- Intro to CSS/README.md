@@ -1,4 +1,4 @@
-# Lesson 03: CSS Basics 
+# Lesson 03: CSS Basics
 
 
 ### Objectives and Plan for Assessment
@@ -32,11 +32,7 @@
     <!-- Students will know that...  -->
     <td valign="top">
       <ul>
-        <!-- <li> Web browsers take in text (in the form of HTML, and render it into a visual page)</li>
-        <li> HTML elements are the fundmental building blocks of webpages</li> -->
-        <li> Elements are defined by "tags" enclosed in angle brackets (eg. `<span> Hello! </span>` )</li>
-        <li> Elements act as containers, and each subsequent element they contain are their 'child' elements</li>
-        <li> Child elements  </li>
+        <li> </li> 
       </ul>
     </td>
 
