@@ -232,14 +232,18 @@
 		</td>
   </tr>
 
+<!-- Worktime part two -->
   <tr>
-    <td> Student Work Time  </td>
+    <td>  <p><b>Worktime </b></p> <p> (15 mins)</p>  </td>
+
+		<!-- worktime part two teacher -->
     <td colspan="4">
 			<ul>
 				<li> Teacher explains that students will now access part two of the mini-lab, which will require them to add links and images to their page, and they should move on even if they haven't fully completed all the action items of the first challenge.   </li>
 				<li> Teacher(s) circulate as necessary to provide support, directing students to use their resources and peers as appropiate.
 			</ul>
 		</td>
+		<!-- worktime part two student  -->
     <td colspan="4">
 			<li> Students stop working on part one of the challenge and access part two of the student materials about links and images.</li>
 			<li> Students work on part two of the challenge and ask for assistance as needed</li>
@@ -264,7 +268,7 @@
 			<ul>
 				<li>Students review code; write necessary changes on index card </li>
 				<li>Students  hand in card and are dismissed </li>
-			</ul> 
+			</ul>
 		</td>
   </tr>
 
