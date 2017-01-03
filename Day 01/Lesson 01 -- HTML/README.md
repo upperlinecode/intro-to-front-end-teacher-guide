@@ -73,7 +73,7 @@
 + Slides
 + Index cards
 + Computers
-+ HTML Cheat Sheet
++ Student Guide
 
 ### Lesson Agenda in Brief (50 minutes)
 <table>
@@ -106,7 +106,7 @@
   <tr>
     <td> 5. </td>
     <td> 15 minutes </td>
-    <td colspan="7"> Students add &lt;img&gt; and &lt;a&gt; and add attributes. </td>
+    <td colspan="7"> Students add <b>&lt;img&gt; </b>and <b>&lt;a&gt; </b>and add attributes. </td>
   </tr>
 
   <tr>
@@ -135,14 +135,14 @@
     <td colspan="4">
 			<ul>
 				<li> Teacher Welcomes Students, directs them to take an index card, have a seat, and start the do now</li>
-				<li> As students settle, teacher tells students that they aren't supposed to be familiar with the code they're looking at, but encourages them to make at least three observations about the boilerplate and at least one inference as to what it might do; look closely, and take a guess</li>
+				<li> As students settle, teacher tells students that they aren't supposed to be familiar with the code they're looking at, but encourages them to make at least three observations (on their index card) about the boilerplate and at least one inference as to what it might do; look closely, and take a guess</li>
 				<li> ~4 mminutes, teacher calls on one to two students to share their responses to take an initial informal assessment of student prior knowledge and transition to the Mini-Lesson</li>
 			</ul>
 		</td>
     <td colspan="4">
 			<ul>
 				<li> Students enter classroom,  take an index card and have a seat</li>
-				<li> Students observe the unfamiliar code and make three observations about what they are seeing and one inference as to what it does. </li>
+				<li> Students observe the unfamiliar code and make three observations about what they are seeing and one inference as to what it does (on index card). </li>
 			</ul>
 		</td>
   </tr>
@@ -210,30 +210,62 @@
 		<!-- Checkin Teacher-->
     <td colspan="4">
 			<ul>
-				<li></li>
-				<li></li>
+				<li> At end of timer; teacher calls students to attention and asks for laptop screens at 45 degrees. </li>
+				<li> Teacher gives a couple of shoutouts to call attention to good practices they witnessed during the initial amount worktime; in particular, how students were working to figure out and work with unfamiliar material and how they used proper formatting.  </li>
+				<li>
+					Teacher shows slide of of html tag, and highlights how up to this point, students have only been able to make elements entirely out of text, but there's so much more they'll be able to do and the next step is to be able to add links and images.
+					<p>
+					  Links and Images have their own tags; &lt;a&gt; is for links, and &lt;img&gt; is for images, but these tags are useless by their own --why is that ?
+					</p>
+				</li>
+				<li> Teacher explains that to give these tags more meaning, they need attributes which gives the image a source to find the image, and a link or "Hyper-Text reference" for the link. </li>
+				<li> Teacher live codes adding an image source and link href . </li>
 			</ul>
 		 </td>
 
 		 <!-- Checkin Student -->
     <td colspan="4">
 			<ul>
-				<li></li>
-				<li></li>
+				<li>Students pause their work and put screens at 45 degrees. </li>
+				<li>Students watch and listen as teacher demonstrates </li>				
 			</ul>
 		</td>
   </tr>
 
   <tr>
     <td> Student Work Time  </td>
-    <td colspan="4"> Teacher Action </td>
-    <td colspan="4"> Student action </td>
+    <td colspan="4">
+			<ul>
+				<li> Teacher explains that students will now access part two of the mini-lab, which will require them to add links and images to their page, and they should move on even if they haven't fully completed all the action items of the first challenge.   </li>
+				<li> Teacher(s) circulate as necessary to provide support, directing students to use their resources and peers as appropiate.
+			</ul>
+		</td>
+    <td colspan="4">
+			<li> Students stop working on part one of the challenge and access part two of the student materials about links and images.</li>
+			<li> Students work on part two of the challenge and ask for assistance as needed</li>
+		</td>
   </tr>
 
+
+<!-- closing -->
   <tr>
     <td> Closing  </td>
-    <td colspan="4"> Teacher Action </td>
-    <td colspan="4"> Student action </td>
+
+		<!-- Closing teacher -->
+    <td colspan="4">
+			<ul>
+				<li> Teacher calls students to attention and gives brief praise of any positive work habits they noticed. </li>
+				<li> Teacher asks student to look at the code on the screen and point out--in writing, on the reverse side of the index card they recieved when they entered--what two things (if they can) the author of the code would need to change in order for the image to appear on the screen. When students are done, they may turn in their index card and be dismissed.
+ 			<ul>
+		 </td>
+
+		 <!-- Closing Student -->
+    <td colspan="4">
+			<ul>
+				<li>Students review code; write necessary changes on index card </li>
+				<li>Students  hand in card and are dismissed </li>
+			</ul> 
+		</td>
   </tr>
 
 </table>
