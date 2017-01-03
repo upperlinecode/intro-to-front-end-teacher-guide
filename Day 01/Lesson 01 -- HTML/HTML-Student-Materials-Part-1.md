@@ -50,12 +50,19 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
     <td>  &lt;!DOCTYPE html&gt; &lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt; </td>
     <td>  
       &lt;!DOCTYPE html&gt;
+
       <br>
-      &lt;html&gt;&lt;head&gt;
+      &lt;html&gt;
+
       <br>
+      &lt;head&gt;&lt;/head&gt;
+
+      <br>  
       &lt;body&gt;&lt;/body&gt;
+
       <br>
       &lt;/html&gt;  
+
     </td>
     <td>  
       &lt;!DOCTYPE html&gt;
