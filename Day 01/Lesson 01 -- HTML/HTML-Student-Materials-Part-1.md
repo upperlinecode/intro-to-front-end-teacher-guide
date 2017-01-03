@@ -43,7 +43,7 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
 <table>
   <tr>
     <th> Gross :scream: </th>
-    <th> Still needs work :confused: </th>
+    <th> Still needs work--tags are not indented :confused: </th>
     <th> Go work at google! :heart_eyes: </th>
   </tr>
   <tr>
@@ -81,3 +81,37 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
     </td>
   </tr>
 </table>
+
+
+### Step Four-- Add a title and content to your page! Experiment!
+
+At this point, you're ready to add content to the body of your page! For starters, just try typing text in side the body of your page! If your tags are written correctly, it should show up!
+
+The `<head>` element, however, is different--any information here is information for the web browser about the page (a.k.a "metadata")--but it's **not** the content itself. One clear example is the `<title>` tag, which will give your page a title on the tab of the browser; Try giving your page a title by adding a title inside the head now:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> This is my title! </title>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+If we want, we could just type text into the `<body>` element of the page, but that's not ideal--let's add some HTML elements to keep our content organized.
+
+Experiment with the following tags--what do each of them do? What do you think they stand for?
++ `<h1> This text is big and bold! </h1>`
++ `<h2> What about this text </h2>`
++ `<h3> And what about this text?? </h3>`
++ `<p> What do you think p stands for? </p>`
++ This next doesn't closes itself (note the slash right at the end of ) and doen't have anything that goes inside it: `<hr />`
++ Same here: `<br />`
+
+### Challenge: Tables
+
+Looking for challenge: how do you make a table in HTML?
+
+Go to [this link about tables in HTML](https://www.tutorialspoint.com/html/html_tables.htm) and see if you can make a table out of html.
