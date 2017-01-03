@@ -245,8 +245,10 @@
 		</td>
 		<!-- worktime part two student  -->
     <td colspan="4">
-			<li> Students stop working on part one of the challenge and access part two of the student materials about links and images.</li>
-			<li> Students work on part two of the challenge and ask for assistance as needed</li>
+			<ul>
+				<li> Students stop working on part one of the challenge and access part two of the student materials about links and images.</li>
+				<li> Students work on part two of the challenge and ask for assistance as needed</li>
+			</ul>
 		</td>
   </tr>
 
