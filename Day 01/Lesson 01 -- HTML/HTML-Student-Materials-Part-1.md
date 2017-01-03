@@ -45,7 +45,22 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
 |                                                         | `<head>`              | `    <head>`                 |
 |                                                         | `</head>`             | `    </head`                 |
 
+<table>
+  <tr>
+    <th> `<!DOCTYPE html><html><head><body></body></html>`  </th>
+    <th>
+      ```
+      <!DOCTYPE html>
+      <html>
+      </html>
+      ```
+    </th>
+    <th> </th>
+  </tr>
+  <tr>
 
+  </tr>
+</table>
 
 <html>
 <head>
