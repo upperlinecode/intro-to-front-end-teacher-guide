@@ -37,8 +37,16 @@ The most basic HTML tags are simply `<html>` and `</html>`, and **all the conten
 
 ### Step Three-- Add the `<body>` and `<head>` tags inside the html element.
 
-On the good stuff. Inside your  `<html>` tags, add  `<body>` and `<head>` tags--remember that every tag also needs a closing tag. At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
+On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then after the head tags, add `<body>` tags--and remember that every tag also needs a closing tag. At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
 
 | Gross :sob:    | Needs work :confused: | Work at Google! :heart_eyes: |
 | :------------- | :------------- | :----------------|
-| Item One       | Item Two       ||
+| `<!DOCTYPE html><html><head><body></body></html>`       |
+```<!DOCTYPE html>
+<html>
+<head>
+<body>
+</body>
+</html>
+```      
+||
