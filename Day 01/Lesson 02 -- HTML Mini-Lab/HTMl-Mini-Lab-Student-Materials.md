@@ -35,7 +35,7 @@ As you will frequently have elements within elements within elements, make sure 
 
 <table>
   <tr>
-    <th> No indent makes it hard to tell that paragraph is in the section of the article--BAD! :scream: </th>
+    <th> No indent --BAD! :scream: </th>
     <th> BEAUTIFUL! :heart_eyes: </th>
   </tr>
   <tr>
