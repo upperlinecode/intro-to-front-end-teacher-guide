@@ -196,7 +196,7 @@ Now that you have a homepage and a page 2 which you can navigate back and forth 
 + Add some HTML content to your new page, and make sure the user has a way to get to it from the homepage. If you'd like, you can copy and page the HTML from "page2.hmtl" to give you a starting point, but if you write your own, make sure to include all the HTML basics (`<!DOCTYPE html>, <html>, <head>, <title> and <body>`)
 
 
-### In the remainder of the time, add content to your pages!
+### Step Six: In the remainder of the time, add content to your pages!
 
 Now that you have functioning links, put your HTML skills to the test by adding new content!
 
@@ -210,4 +210,5 @@ List of HTML elements to use
 + `<ul>` and it's pal `<li>`. Google "html unordered list" if you need to see an example!
 + h1, h2, h3, etc.
 + `<title>` --- remember that the `<title>` tag goes in the head, not the body!!!
-+ "Semantic" (has-meaning) tags that don't add styling but help to organize your code: `<section>`, `<article>`, `<nav>`,  `<header>`, `<header>`, `<footer>`, `<details>`
++ "Semantic" (meaningful) tags that don't add styling but help to organize your code. They also are useful for browsers that help the visually impaired `<section>`, `<article>`, `<nav>`,  `<header>`, `<header>`, `<footer>`, `<details>`
++ `<table>` (if you can stand a migrane; you'll probably need to google this one!)

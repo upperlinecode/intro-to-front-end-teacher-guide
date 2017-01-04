@@ -25,6 +25,7 @@
     <td valign="top">
        <ul>
           <li> Properly refactor poorly written HTML according to conventions </li>
+          <li> Write links that navigate within a page.  </li>
           <li> Use links across multiple local pages.  </li>
        </ul>
     </td>
@@ -62,14 +63,17 @@
 
     <!-- Assessment description -->
     <td colspan="2">
-
+      <ul>
+        <li> Review of students' HTML unscrambles </li>
+        <li> Review of Student's Link Pages </li>
+      </ul>
     </td>
 
     <!-- Characteristics of model assessment -->
     <td colspan="2">
       <ul>
-        <li> Proper indentation of HTML </li>
-        <li> Students correctly link to a side page </li>
+        <li> Proper indentation of HTML in unscrambles</li>
+        <li> Students correctly link to locations within a page and seperate local pages. </li>
       </ul>
     </td>
   </tr>
@@ -92,7 +96,7 @@
     <td> 2. </td>
     <td> 07 minutes </td>
 
-    <td colspan="7">  Mini-Lesson: Overview of style conventions and today's activity </td>
+    <td colspan="7">  Mini-Lesson: Overview of today's activity, style conventions, and live-coding of links.</td>
   </tr>
 
   <tr>
@@ -125,17 +129,23 @@
 			<p> <b> Do Now </b></p>
 			<p> (5 min) </p>
 		</td>
+
+
+    <!-- Do-now teacher -->
     <td colspan="4">
 			<ul>
 				<li> Teacher Welcomes Students, directs them to take an index card, have a seat, and start the do now</li>
-				<li> </li>
-				<li></li>
+				<li> Teachers should direct students to write at least 2 glows (areas they feel good) at and 2 grows (areas they need to work at) </li>
+				<li>Teacher facilitates share-out and makes note of student progress and confidence. </li>
 			</ul>
 		</td>
+
+    <!-- Do- student  -->
     <td colspan="4">
 			<ul>
-				<li> </li>
-				<li> </li>
+				<li>Students enter the class , taking a blank index card on their way in,. </li>
+				<li> Students write their do-nows., recording grows and glows. </li>
+        <li> Students share out at teacher direction </li>
 			</ul>
 		</td>
   </tr>
@@ -149,10 +159,13 @@
 		<!-- Mini Lesson Teacher  -->
     <td colspan="4">
 			<ul>
-				<li>  </li>
-				<li>  </li>
-				<li>  </li>
-				<li>  </li>
+				<li> If deemed necessary, teacher may address a specific area of confusion presented by the share-out of the do-now.  </li>
+				<li>Teacher explains that today’s activity will involve two parts: the first, proper formatting of HTML; the second, linking to pages and parts of a document, and it will serve to reinforce the new skills they have just learned in the last activity.   </li>
+				<li>Teacher illustrates how a child element is contained in its parent parent, referencing example. ```Example``` and  calls to attention the proper indentation of the child.   </li>
+				<li>Teacher goes on to explain the formatting of the HTML according to these conventions is very important, even though the browser can sometimes compensate for mistakes as it will make their code more readable.   </li>
+        <li> Teacher explains that  for the  second part of their lab they will have to   write links to other pages in their projects as well to other parts of the page. </li>
+        <li> Switching to the Cloud9 environment, the teacher live-codes how to make two links, the first being to an existing html document in the project. The teacher should stress that they is adding a src attribute and simply adding the file name. </li>
+        <li> For the second link, the teacher demonstrates how to add a link to a place in the page, explaining that  in order for the href to have any meaning, we need to the element  the class is going to navigate an “id attribute”-- e.g. id=”example”. Teacher should note  that the value of this id attribute could be anything. Then, for the href attribute of the a tag, the teacher should note that to direct the browser to the element just given an id, the href should  start with a hashtag (like in twitter) to call out that element specifically. </li>
 			</ul>
 		</td>
 
@@ -174,6 +187,7 @@
 			<ul>
 				<li>As students begin, teacher sets a 15 minute timer on the board to keep the lesson on pace. </li>
 				<li>Teacher(s) circulate and provide assistance as necessary; teachers should push students to address their own misunderstandings, where possible, by referencing the student guide. </li>
+
 			</ul>
 		</td>
 
@@ -181,32 +195,26 @@
 		<!-- Worktime Student -->
     <td colspan="4">
 			<ul>
-				<li> Students access the student guide and start working according to the directions given on the student guide </li>
-				<li> Students' first order of business will be to copy the boilerplate identically as given in the guide. They then can go on to add various elements according to the directions.  </li>
+				<li> Students work through the challenges presented in the student guide , and time permitting,  work on some of the challenges. </li>
 			</ul>
 		</td>
   </tr>
 
   <tr>
 		<!-- Checkin  -->
-    <td> <p><b>Checkin </b></p> <p> (5 mins)</p>   </td>
+    <td> <p><b>Checkin </b></p> <p> (1 mins)</p>   </td>
 
 		<!-- Checkin Teacher-->
     <td colspan="4">
 			<ul>
-				<li> </li>
-				<li> </li>
-				<li> </li>
-				<li> </li>
-				<li> </li>
+				<li> Teacher calls class to attention and gives some shoutouts of good work habbits they notivved before  signaling that stduents should begin moving on to part two, even if they weren't able to complete all of part 1. </li>
 			</ul>
 		 </td>
 
 		 <!-- Checkin Student -->
     <td colspan="4">
 			<ul>
-				<li> </li>
-				<li> </li>				
+				<li> Students move on to part two of the challenge by closing out of their code unscrambles, navigating to the  Part 2 section of the student guide, and opening the "HTML-lesson-two-link-challenge.html" file. </li>			
 			</ul>
 		</td>
   </tr>
