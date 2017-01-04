@@ -22,6 +22,7 @@ As you become a proficient web developer, you will end up writing some *very* co
 
     <td>
       &lt;p&gt; This is paragraph. &lt;/p&gt;
+      <br>
       &lt;p&gt;  This is a different paragraph.   &lt;/p&gt;
     </td>
   </tr>
@@ -40,17 +41,25 @@ As you will frequently have elements within elements within elements, make sure 
   <tr>
     <td>
       &lt;article&gt;
+      <br>
       &lt;section&gt;  
+      <br>
       &lt;p&gt; This is a paragraph inside a section of the article.  &lt;/p&gt;
+      <br>
       &lt;/section&gt;
+      <br>
       &lt;/article&gt;
     </td>
 
     <td>
       &lt;article&gt;
+      <br>
       &#160;&#160;&#160;&#160;&#160;&lt;section&gt;  
+      <br>
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; This is a paragraph inside the section.  &lt;/p&gt;
+      <br>
       &#160;&#160;&#160;&#160;&#160;&lt;/section&gt;
+      <br>
       &lt;/article&gt;
     </td>
   </tr>
