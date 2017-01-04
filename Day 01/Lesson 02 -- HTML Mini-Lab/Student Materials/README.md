@@ -2,7 +2,7 @@
 
 **[Part 1](#Part_1:_Code Unscramble:)**
 
-[Part 2](#Part-2-Links)
+[Part 2](#part-2-links)
 
 ## Motivation (i.e. What is this, and why should you care?)
 
