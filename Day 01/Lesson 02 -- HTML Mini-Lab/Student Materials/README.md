@@ -13,9 +13,8 @@ In Part-2, you will work on writing functioning links, a crucial skill in the we
 
 -------------------------------
 # Part 1: Code Unscramble
--------------------------------
 
-
+**Directions:** In Step 1, you will see three comparisons of good and bad code--look them over carefully before moving on to step 2.
 
 
 ### Step 1: Look at good code examples--what do you notice about them?  
@@ -130,7 +129,7 @@ If the parent-child combo is really short, however, save yourself some extra lin
   </tr>
 </table>
 
-## Your mission....
+## Step 2: Your mission....
 
 In the folder, you should find '**unscramble-basic.html**'.
 
@@ -144,7 +143,7 @@ Open the file "unscramble-challenge.html" and see if you can handle a *real* mes
 You'll see all sorts of unfamiliar elements, but feel free to explore and google new things you haven't seen before!
 
 
-
+<br><br>
 -------------------------------------
 # Part 2: Links
 
