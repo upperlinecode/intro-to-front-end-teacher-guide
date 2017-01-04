@@ -121,7 +121,7 @@
 
   <tr>
     <td> 6. </td>
-    <td> 05 minutes </td>
+    <td> 03 minutes </td>
     <td colspan="7"> Shoutouts and Exit-Ticket: code refactor. </td>
   </tr>
 
