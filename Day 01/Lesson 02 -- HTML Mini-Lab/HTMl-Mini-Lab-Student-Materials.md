@@ -44,13 +44,13 @@ As you will frequently have elements within elements within elements, make sure 
       <br>
       &lt;section&gt;  
       <br>
-      &lt;p&gt; This is a paragraph inside a section of the article.  &lt;/p&gt;
+      &lt;p&gt; This is a paragraph inside the first section.  &lt;/p&gt;
       <br>
       &lt;/section&gt;
       <br>
       &lt;section&gt;  
       <br>
-      &lt;p&gt; This is a paragraph inside a section of the article.  &lt;/p&gt;
+      &lt;p&gt; This is a paragraph inside the second section.  &lt;/p&gt;
       <br>
       &lt;/section&gt;
       <br>&lt;/article&gt;
@@ -61,13 +61,13 @@ As you will frequently have elements within elements within elements, make sure 
       <br>
       &#160;&#160;&#160;&#160;&#160;&lt;section&gt;  
       <br>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; This is a paragraph inside the section.  &lt;/p&gt;
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; This is a paragraph inside the first section.  &lt;/p&gt;
       <br>
       &#160;&#160;&#160;&#160;&#160;&lt;/section&gt;
       <br>
       &#160;&#160;&#160;&#160;&#160;&lt;section&gt;  
       <br>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; This is a paragraph inside the section.  &lt;/p&gt;
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;p&gt; This is a paragraph inside the second section.  &lt;/p&gt;
       <br>
       &#160;&#160;&#160;&#160;&#160;&lt;/section&gt;
       <br>&lt;/article&gt;
