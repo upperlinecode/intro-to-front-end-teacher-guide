@@ -62,7 +62,7 @@
 
   <td colspan="2">
     <ul>
-      <li> Accurately recreated boilerplate </li>
+      <li> Accurately recreated basic HTML boilerplate tags</li>
       <li> Use of at least eight different html tags</li>
 			<li>Exit ticket spots both errors: the tag needs to be in the body, and its source should be written as an src attribute. </li>
     </ul>
@@ -198,7 +198,7 @@
     <td colspan="4">
 			<ul>
 				<li> Students access the student guide and start working according to the directions given on the student guide </li>
-				<li> Students' first order of business will be to copy the boilerplate identically as given in the guide. They then can go on to add various elements according to the directions.  </li>
+				<li> Students' first order of business will be to write the basic boilerplate (DOCTYPE, html, head, body) according to the step-by-step directions in the guide. They then can go on to add various elements according to the directions.  </li>
 			</ul>
 		</td>
   </tr>
