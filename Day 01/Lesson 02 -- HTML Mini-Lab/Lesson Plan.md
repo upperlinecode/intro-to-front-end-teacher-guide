@@ -103,7 +103,7 @@
     <td> 3. </td>
     <td> 30 minutes </td>
 
-    <td colspan="7"> Work-Time: Part 1, Indenting Scrambled HTML; Part 2, Linking in and between pages</td>
+    <td colspan="7"> Work-Time: <b>Part 1, </b>Indenting Scrambled HTML; <b>Part 2, </b> Linking in and between pages</td>
   </tr>
 
   <tr>
