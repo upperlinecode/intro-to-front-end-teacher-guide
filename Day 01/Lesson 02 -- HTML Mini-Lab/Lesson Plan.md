@@ -89,22 +89,35 @@
 <table>
   <tr>
     <td> 1. </td>
-    <td> 05 minutes </td>
+    <td> 04 minutes </td>
     <td colspan="7"> Do-Now: Share out of experience during first activity </td>
   </tr>
   <tr>
     <td> 2. </td>
-    <td> 07 minutes </td>
-
-    <td colspan="7">  Mini-Lesson: Overview of today's activity, style conventions, and live-coding of links.</td>
+    <td> 04 minutes </td>
+    <td colspan="7">  Mini-Lesson: Overview of today's activity and style conventions needed for part one. </td>
   </tr>
 
   <tr>
     <td> 3. </td>
-    <td> 30 minutes </td>
+    <td> 15 minutes </td>
 
-    <td colspan="7"> Work-Time: <b>Part 1, </b>Indenting Scrambled HTML; <b>Part 2, </b> Linking in and between pages</td>
+    <td colspan="7"> Work-Time: <b>Part 1, </b>Indenting Scrambled HTML; </td>
   </tr>
+
+	<tr>
+		<td> 4. </td>
+		<td> 5 minutes </td>
+
+		<td colspan="7"> Checkin and Livecoding of how to write links </td>
+	</tr>
+
+	<tr>
+		<td> 5. </td>
+		<td> 15 minutes </td>
+
+		<td colspan="7"> Work-Time: <b>Part 2, </b> Linking in and between pages</td>
+	</tr>
 
   <tr>
     <td> 6. </td>
@@ -127,7 +140,7 @@
   <tr>
     <td>
 			<p> <b> Do Now </b></p>
-			<p> (5 min) </p>
+			<p> (4 min) </p>
 		</td>
 
 
@@ -150,10 +163,12 @@
 		</td>
   </tr>
 
+
+	<!-- Mini-Lesson -->
   <tr>
     <td>
 			<p> <b> Mini-Lesson </b></p>
-			<p> (7 min) </p>
+			<p> (4 min) </p>
 		</td>
 
 		<!-- Mini Lesson Teacher  -->
@@ -163,9 +178,7 @@
 				<li>Teacher explains that today’s activity will involve two parts: the first, proper formatting of HTML; the second, linking to pages and parts of a document, and it will serve to reinforce the new skills they have just learned in the last activity.   </li>
 				<li>Teacher illustrates how a child element is contained in its parent parent, referencing example. ```Example``` and  calls to attention the proper indentation of the child.   </li>
 				<li>Teacher goes on to explain the formatting of the HTML according to these conventions is very important, even though the browser can sometimes compensate for mistakes as it will make their code more readable.   </li>
-        <li> Teacher explains that  for the  second part of their lab they will have to   write links to other pages in their projects as well to other parts of the page. </li>
-        <li> Switching to the Cloud9 environment, the teacher live-codes how to make two links, the first being to an existing html document in the project. The teacher should stress that they is adding a src attribute and simply adding the file name. </li>
-        <li> For the second link, the teacher demonstrates how to add a link to a place in the page, explaining that  in order for the href to have any meaning, we need to the element  the class is going to navigate an “id attribute”-- e.g. id=”example”. Teacher should note  that the value of this id attribute could be anything. Then, for the href attribute of the a tag, the teacher should note that to direct the browser to the element just given an id, the href should  start with a hashtag (like in twitter) to call out that element specifically. </li>
+
 			</ul>
 		</td>
 
@@ -195,29 +208,57 @@
 		<!-- Worktime Student -->
     <td colspan="4">
 			<ul>
-				<li> Students work through the challenges presented in the student guide , and time permitting,  work on some of the challenges. </li>
+				<li> Students work through the challenges presented in the student guide, and time permitting,  work on some of the challenges. </li>
 			</ul>
 		</td>
   </tr>
 
   <tr>
 		<!-- Checkin  -->
-    <td> <p><b>Checkin </b></p> <p> (1 mins)</p>   </td>
+    <td> <p><b>Checkin </b></p> <p> (5 mins)</p>   </td>
 
 		<!-- Checkin Teacher-->
     <td colspan="4">
 			<ul>
-				<li> Teacher calls class to attention and gives some shoutouts of good work habbits they notivved before  signaling that stduents should begin moving on to part two, even if they weren't able to complete all of part 1. </li>
+				<li> Teacher calls class to attention and gives some shoutouts of good work habbits they noticed before  signaling that students should begin moving on to part two, even if they weren't able to complete all of part 1. </li>
+				<li> Teacher explains that  for the  second part of their lab they will have to   write links to other pages in their projects as well to other parts of the page. </li>
+				<li> Switching to the Cloud9 environment, the teacher live-codes how to make two links, the first being to an existing html document in the project. The teacher should stress that they is adding a src attribute and simply adding the file name. </li>
+				<li> For the second link, the teacher demonstrates how to add a link to a place in the page, explaining that  in order for the href to have any meaning, we need to the element  the class is going to navigate an “id attribute”-- e.g. id=”example”. Teacher should note  that the value of this id attribute could be anything. Then, for the href attribute of the a tag, the teacher should note that to direct the browser to the element just given an id, the href should  start with a hashtag (like in twitter) to call out that element specifically. </li>
 			</ul>
 		 </td>
 
 		 <!-- Checkin Student -->
     <td colspan="4">
 			<ul>
+				<li> Students observe the live coding take notes if they wish </li> 
+			</ul>
+		</td>
+  </tr>
+
+
+
+	<!-- Work Time 2 -->
+  <tr>
+    <td> <p><b>Student Work Time </b></p> <p> (15 mins)</p>  </td>
+
+		<!-- Worktime 2 Teacher -->
+    <td colspan="4">
+			<ul>
+				<li>As students begin, teacher sets a 15 minute timer on the board to keep the lesson on pace. </li>
+				<li>Teacher(s) circulate and provide assistance as necessary; teachers should push students to address their own misunderstandings, where possible, by referencing the student guide. </li>
+
+			</ul>
+		</td>
+
+
+		<!-- Worktime 2  Student -->
+    <td colspan="4">
+			<ul>
 				<li> Students move on to part two of the challenge by closing out of their code unscrambles, navigating to the  Part 2 section of the student guide, and opening the "HTML-lesson-two-link-challenge.html" file. </li>			
 			</ul>
 		</td>
   </tr>
+
 
 
 <!-- closing -->
