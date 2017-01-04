@@ -239,7 +239,7 @@
 		<!-- worktime part two teacher -->
     <td colspan="4">
 			<ul>
-				<li> Teacher explains that students will now access part two of the mini-lab, which will require them to add links and images to their page, and they should move on even if they haven't fully completed all the action items of the first challenge.   </li>
+				<li> Teacher explains that students will now access part two of the mini-lab, which will require them to add links and images to their page, and they should move on even if they haven't fully completed all the required (non-challenge) items of part one.   </li>
 				<li> Teacher(s) circulate as necessary to provide support, directing students to use their resources and peers as appropiate.
 			</ul>
 		</td>
