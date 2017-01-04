@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td> 1. </td>
-    <td> 04 minutes </td>
+    <td> 05 minutes </td>
     <td colspan="7"> Do-Now: Share out of experience during first activity </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@
 
 	<tr>
 		<td> 5. </td>
-		<td> 15 minutes </td>
+		<td> 18 minutes </td>
 
 		<td colspan="7"> Work-Time: <b>Part 2, </b> Linking in and between pages</td>
 	</tr>
@@ -140,7 +140,7 @@
   <tr>
     <td>
 			<p> <b> Do Now </b></p>
-			<p> (4 min) </p>
+			<p> (5 min) </p>
 		</td>
 
 
@@ -230,7 +230,7 @@
 		 <!-- Checkin Student -->
     <td colspan="4">
 			<ul>
-				<li> Students observe the live coding take notes if they wish </li> 
+				<li> Students observe the live coding take notes if they wish </li>
 			</ul>
 		</td>
   </tr>
@@ -239,7 +239,7 @@
 
 	<!-- Work Time 2 -->
   <tr>
-    <td> <p><b>Student Work Time </b></p> <p> (15 mins)</p>  </td>
+    <td> <p><b>Student Work Time </b></p> <p> (18 mins)</p>  </td>
 
 		<!-- Worktime 2 Teacher -->
     <td colspan="4">
