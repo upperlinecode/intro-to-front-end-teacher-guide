@@ -1,8 +1,8 @@
 # HTML Mini-Lab: Write Clean Code Across Multiple pages
 
-**[Part 1](#Part_1:_Code Unscramble:)**
+[Part 1](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-1-code-unscramble)
 
-[Part 2](#part-2-links)
+[Part 2](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-2-links)
 
 ## Motivation (i.e. What is this, and why should you care?)
 
