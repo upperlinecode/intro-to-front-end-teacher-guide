@@ -1,7 +1,7 @@
 # HTML Mini-Lab: Write Clean Code Across Multiple pages
 
 **[Part 1](#Part_1:_Code Unscramble:)**
-**[Part 2](#Part 2: Links)**
+[Part 2](#Part 2: Links)
 
 ## Motivation (i.e. What is this, and why should you care?)
 
