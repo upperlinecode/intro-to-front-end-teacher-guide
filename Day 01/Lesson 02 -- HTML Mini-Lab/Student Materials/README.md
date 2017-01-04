@@ -22,7 +22,7 @@ In Part-2, you will work on writing functioning links, a crucial skill in the we
 #### Example 1: Always close your tags where the element should end!
 <table>
   <tr>
-    <th> BAD! :scream: </th>
+    <th> Tags don't close--bad! :scream: </th>
     <th> BEAUTIFUL! :heart_eyes: </th>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ As you will frequently have elements within elements within elements, make sure 
 
 <table>
   <tr>
-    <th> No indent --BAD! :scream: </th>
+    <th> No indentation--Gross! :scream: </th>
     <th> BEAUTIFUL! :heart_eyes: </th>
   </tr>
   <tr>
@@ -203,10 +203,11 @@ Now that you have functioning links, put your HTML skills to the test by adding 
 Here's a review of some of the HTML elements we've covered so far. If you'd like to see an example of them at work, just google the element. For example, if you want to learn more about the `<h3>` element, google "HTML h3 element"
 
 List of HTML elements to use
-+ img
-+ a
-+ div
-+ p
++ `<img>`
++ `<a>`
++ `<div>`
++ `<p>`
 + `<ul>` and it's pal `<li>`. Google "html unordered list" if you need to see an example!
 + h1, h2, h3, etc.
-+ title --- remember that the `<title>` tag goes in the head, not the body!!!
++ `<title>` --- remember that the `<title>` tag goes in the head, not the body!!!
++ "Semantic" (has-meaning) tags that don't add styling but help to organize your code: `<section>`, `<article>`, `<nav>`,  `<header>`, `<header>`, `<footer>`, `<details>`
