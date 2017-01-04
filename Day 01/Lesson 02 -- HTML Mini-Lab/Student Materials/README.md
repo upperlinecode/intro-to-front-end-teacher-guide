@@ -1,16 +1,18 @@
 # HTML Mini-Lab: Write Clean Code Across Multiple pages
 
-[Part 1](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-1-code-unscramble)
-
-[Part 2](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-2-links)
-
 ## Motivation (i.e. What is this, and why should you care?)
 
 As you become a proficient web developer, you will end up writing some *very* complex web pages, perhaps with 100s of html elements each. The more complicated your web pages get, the more important it will become to keep your code organized and easy to work with. This mini-lab will help you to write better code that will make your life easier and give you a better understanding of the html code you will encounter as a web developer.
 
 In Part-2, you will work on writing functioning links, a crucial skill in the web. Afterall, what is the web without links!?
 
-# Part 1: Code Unscramble:
+[Part 1](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-1-code-unscramble)
+
+[Part 2](https://github.com/upperlinecode/intro-to-front-end-teacher-guide/tree/master/Day%2001/Lesson%2002%20--%20HTML%20Mini-Lab/Student%20Materials#part-2-links)
+
+
+-------------------------------
+# Part 1: Code Unscramble
 -------------------------------
 
 
@@ -18,7 +20,7 @@ In Part-2, you will work on writing functioning links, a crucial skill in the we
 
 ### Step 1: Look at good code examples--what do you notice about them?  
 
-#### Example 1: Always close your tags where the element should end. !
+#### Example 1: Always close your tags where the element should end!
 <table>
   <tr>
     <th> BAD! :scream: </th>
@@ -142,6 +144,8 @@ Open the file "unscramble-challenge.html" and see if you can handle a *real* mes
 You'll see all sorts of unfamiliar elements, but feel free to explore and google new things you haven't seen before!
 
 
+
+-------------------------------------
 # Part 2: Links
 
 You have been hired as a freelance developer for Upperline's new website, but the site is a total mess. For one, there's hardly any content of the site, but more importantly, none of the links work!
@@ -154,10 +158,14 @@ When you load the homepage, you'll see a number of a broken links written within
 
 
 ***key points to remember***
-1. Make any element on the page 'findable' by giving it an id. For example: `<div id="thingy"> Link to this div plz!! </div>`.
+
+1. Make any element on the page 'findable' by giving it an id.
+
+For example: `<div id="thingy"> Link to this div plz!! </div>` .
+
 2. Make a link to that element by using an `<a>` tag with an **href** value of a hashtag followed by the id of the thing you're linking to.
 
-Example of an in-page link.
+**Example of an in-page link.**
 ```
 <div id="thingy"> This is the thingy!! <div>
 <a href="#thingy"> Click here to up the thingy! </a>
