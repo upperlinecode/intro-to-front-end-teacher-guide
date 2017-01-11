@@ -246,6 +246,7 @@
 			<ul>
 				<li>As students begin, teacher sets a 15 minute timer on the board to keep the lesson on pace. </li>
 				<li>Teacher(s) circulate and provide assistance as necessary; teachers should push students to address their own misunderstandings, where possible, by referencing the student guide. </li>
+				<li> As students get to the final portion of the link activity, they may spend the remaining time either fleshing out the info site with more content, or they can revist their hobby page add add more pages and links. </li>
 
 			</ul>
 		</td>

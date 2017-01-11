@@ -189,16 +189,26 @@ The author of this page was starting to write a second page, which she made in a
 + Somewhere on the homepage, add a link to the second page by creating a link with `href="page2.html"`
 + Once you can navigate to page two, add a link back to the homepage on page 2.
 
-### Step Five: Add More Pages!
+### Step Five: Link to Outside Pages
+
+Remember, `<a>` tags can also link to pages completely outside of your project, like `<a href="http://www.google.com" > Go to google </a>`.
+
++ Add at least two links in the site to any outside pages.  
+
+### Step Six: Add More Pages!
 
 Now that you have a homepage and a page 2 which you can navigate back and forth from, make some more pages!
 + To create a new page, make a new file in your project folder, and be sure to end its filename in **.html**. For example, `page3.html`
 + Add some HTML content to your new page, and make sure the user has a way to get to it from the homepage. If you'd like, you can copy and page the HTML from "page2.hmtl" to give you a starting point, but if you write your own, make sure to include all the HTML basics (`<!DOCTYPE html>, <html>, <head>, <title> and <body>`)
 
 
-### Step Six: In the remainder of the time, add content to your pages!
 
-Now that you have functioning links, put your HTML skills to the test by adding new content!
+### Step Seven: In the remainder of the time, add content to your pages!
+
+Now that you have functioning links, put your HTML skills to the test with one of two options.
+
+1. Go back to your 'hobby' page from the last session and flesh it out, adding more content using the tags below and a variety of links. OR...
+2.  Continue working on this page, adding more information about Upperline (from your imagination is fine) using the tags below. 
 
 Here's a review of some of the HTML elements we've covered so far. If you'd like to see an example of them at work, just google the element. For example, if you want to learn more about the `<h3>` element, google "HTML h3 element"
 

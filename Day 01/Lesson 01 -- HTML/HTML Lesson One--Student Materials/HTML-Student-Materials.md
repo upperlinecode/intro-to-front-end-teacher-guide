@@ -13,6 +13,10 @@ The pages you make in this activity will seem very basic, but if you master the 
 
 Follow the steps below in order, and be sure to read the descriptions of each step so that you know the purpose of each line of code you will be adding. Additionally, ***avoid copying and pasting***; sure, copying and pasting will speed things up, but when you take the time to write the line of code out by yourself you will better engrain it in your memory.  
 
+-----------------
+
+
+
 ### Step one--tell the web browser that you're about to give it a bunch of HTML.
 
 Ready to write your first line of HTML? The **very** first tag you will need to write is one that should be at the top of **every** page--the `<!DOCTYPE html>` tag. This tag doesn't appear to do much, but
@@ -37,7 +41,12 @@ The most basic HTML tags are simply `<html>` and `</html>`, and **all the conten
 
 ### Step Three-- Add the `<body>` and `<head>` tags inside the html element.
 
-On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then after the head tags, add `<body>` tags--and remember that every tag also needs a closing tag. At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
+On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then after the head tags, add `<body>` tags--and remember that every tag also needs a closing tag.
+
++ The `<head>` contains information *about* your website, but not actual content that will show up on the page (think of it as the 'brains' of your webpage.) It will contain things like the title of your page --later on--links to stylesheets and code that will make your page beautiful and interactive.
++ The `<body>` contains all the content of your page that will actually show up on the screen. 90% of the HTML you write will go inside the `<head>`
+
+At this point, it's good to make sure that your code is still 'clean' and readable. To show that the  `<body>` and `<head>` tags are ***inside*** the html tags, press `TAB` to indent them over like you would a paragraph. Look at the three examples below.
 
 
 <table>
@@ -83,9 +92,10 @@ On the good stuff. Inside your  `<html>` tags, add  `<head>` tags, and then afte
 </table>
 
 
-## Step Four-- Add a title and content to your page! Experiment!
 
-At this point, you're ready to add content to the body of your page! For starters, just try typing text in side the body of your page! If your tags are written correctly, it should show up!
+## Step Four--Add content and experiment to create a hobby page.
+
+At this point, you're ready to add content to your first web page! For starters, just try typing text in side the body of your page. If your tags are written correctly, it should show up! For this first project, your task to to create a **hobby** page that explains something your like to, or just something you happen to know a lot about.  
 
 The `<head>` element, however, is different--any information here is information for the web browser about the page (a.k.a "metadata")--but it's **not** the content itself. One clear example is the `<title>` tag, which will give your page a title on the tab of the browser; Try giving your page a title by adding a title inside the head now:
 
@@ -93,7 +103,7 @@ The `<head>` element, however, is different--any information here is information
 <!DOCTYPE html>
 <html>
   <head>
-    <title> This is my title! </title>
+    <title> Painting Murals of Koalas: A How to Guide </title>
   </head>
   <body>
   </body>
@@ -103,16 +113,29 @@ The `<head>` element, however, is different--any information here is information
 If we want, we could just type text into the `<body>` element of the page, but that's not ideal--let's add some HTML elements to keep our content organized.
 
 Experiment with the following tags by adding them inside the body of your html document! what do each of them do? What do you think they stand for?
-+ `<h1> This text is big and bold! </h1>`
-+ `<h2> What about this text </h2>`
++ `<h1> This text is big and bold! Like my paintings of koalas. </h1>`
++ `<h2> What about this text? </h2>`
 + `<h3> And what about this text?? </h3>`
-+ `<p> What do you think p stands for? </p>`
-+ `<span>Think you can figure out how the SPAN tag is different from the P tag??? </span>`
++ `<p> What do you think p stands for? Here I will write a paragraph about the various things I find interesting about Koalas.  </p>`
++ `<span>Think you can figure out how the SPAN tag is different from the P tag???  Try putting multiple of each to see the difference. </span>`
 + `<div> The DIV tag exists to make a "divider" to keep your page organized, but you'll be surprised at how often you'll end up using it </div>`
 + This next tag closes itself (note the slash right at the end of the tag) and it doesn't have anything that goes inside it: `<hr />`
 + Same here: `<br />`
 
-### Challenge: Tables
+### Challenge 1: Make a bulleted list.
+
+A bulleted, or 'unordered', list, is a very common HTML element, and to make one you need to both  `<ul>` ... `</ul>` tags to define where your list starts and ends, as well as `<li>...</li>` tags that determine what the actual items on your list are. Copy the list below and 'hack' it to change the items of your list and add some more items. 
+
+```
+<h3> Things I like about Koalas </h3>
+<ul>
+  <li> They're fuzzy </li>
+  <li> They're vegetarian </li>
+  <li> They're grumpy </li>
+</ul>
+```
+
+### Challenge 2: Tables
 
 Looking for challenge: how do you make a table in HTML?
 

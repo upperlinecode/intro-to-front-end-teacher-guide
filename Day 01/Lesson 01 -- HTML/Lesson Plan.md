@@ -159,6 +159,7 @@
 				<li> Teacher praises close observations from students and explains that the skill they just practiced--observing and making inferences about unknown code--is crucial to the proficient coder's skillset, and part of learning to code is always feeling a little lost as you try to figure out a new language   </li>
 				<li> Teacher reveals that what they were looking at was actually "Hyper-Text Markup Language", a long and fancy way of saying "text with extra stuff in it", that nearly everyone just refers to as <b>HTML.</b> </li>
 				<li> HTML is necessary because computers don't communicate with pictures; when you go online, your computer makes a request to a website, and that website's servers send back a long chunk of text that is 'read' by your computer and rendered into all the sorts of fancy memes and facebook posts you love to see.  </li>
+				<li> HTML acts as the structure of a webpage, like a framework or 'skeleton' of basic content without any styling. While HTML alone can generate a generic text-based website, in following lessons you will learn how to use other languages to add styling and interactivity to the structures you will learn to create in this lesson.  </li>
 				<li> Teacher explains that all HTML is contained within blocks of code called <b> elements </b> which, are opened with an opening tag in angle brackets, eg. &lt;html&gt; and closed with an identical tag that has a / in it. For example
 
 				<br>

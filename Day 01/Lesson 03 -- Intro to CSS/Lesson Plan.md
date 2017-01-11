@@ -171,7 +171,6 @@
 		</td>
   </tr>
 
-
 	<!-- Work Time  -->
   <tr>
     <td> <p><b>Student Work Time </b></p> <p> (15 mins)</p>  </td>
