@@ -21,7 +21,7 @@ By now you're familiar with HTML, and your web browser will load a stream of **t
 </div>
 ```
 
-But this is just a bunch of text, containing "tags" but it is not the actual elements on the page when you view them in your web browser.
+But this is just a bunch of text, containing "tags." It is not the actual elements on the page when you view them in your web browser, or even a good visual representation of how they will be organized.  
 To be able to view the elements, your browser will need to do some further leg work and processing of this HTML
 
 
@@ -29,10 +29,21 @@ To be able to view the elements, your browser will need to do some further leg w
 
 As stated above, the HTML text you loaded does not directly represent what you're looking at when you view the web page--it's just text with tags. It needs to be "compiled" into an object that computers can read--a sort of data structure like the folders on your computer.
 
-When the HTML above is compiled, it will generate a **DIV** element that has three children elements: two **P** elements, and one **A** element which has its own **IMG** child element. When we represent this data structure visually with a flowchart, it will look like the upturned 'tree' diagram we see below:
+To do this, a program on your web browser will read of each line of HTML and use algorithms to determine where each tag beings and ends and what the children of each element are and use this data to generate a **Document Object Model** or just **DOM**  
+
+
+When the HTML above is compiled into a DOM, it will generate a **DIV** element that has three children elements: two **P** elements, and one **A** element which has its own **IMG** child element. When we represent this data structure visually with a flowchart, it will look like the upturned 'tree' diagram we see below:
 
 ![little tree](little-tree.png)
 
+In the diagram above, it is *immediately* clear what the children of each element are, starting from the top. The DIV clearly has three children, and we can see what data belongs to each of them. When we were reading the HTML text, we had to read all the way to the end to find out what elements belonged to what and piece the structure together in out heads. The 'DOM' is the computer data structure that results after this processing has been done.
 
+-------------
+
+# Warm Up Exercise -- Write HTML that would generate the following DOM
+
+In the image below, you are given a sample flowchart representation of the DOM.
+
+In the file `DOM.html`, write the HTML that would, after it had been compiled by the browser, generate the DOM tree below. 
 
 ![Dom Tree](dom.png)
