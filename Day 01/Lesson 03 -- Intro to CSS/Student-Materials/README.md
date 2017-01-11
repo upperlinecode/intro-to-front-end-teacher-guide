@@ -161,9 +161,13 @@ Below is the list of properties to try. Try to use as many as you can in the rem
 + font-weight
 + font-family
 + text-align
++ border-radius
 + background-color
++ text-decoration
++ box-shadow  [this link](http://www.cssmatic.com/box-shadow) can help.
 + margin
 + padding
 + float
 + **challeng** display
 + **challenge** position
++ Check out this handy [cheat sheet!](https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
