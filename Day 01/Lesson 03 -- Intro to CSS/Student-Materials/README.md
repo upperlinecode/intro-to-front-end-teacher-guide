@@ -121,7 +121,9 @@ Here, the both the "narwhal" div and the "whale-shark" div have the same class: 
 
 Notice how at this point, there are TWO different CSS code lines determining the background-color of the sea-creatures divs: one from the `div {}` selector, and the second from the `.sea-creatures {}` selector. Whenever there is a conflict like this, the browser will use the selector that is ***most*** specific. In this case, because the class selector is more specific than the element selctor, the background-color will change according to the class selector's CSS.
 
-But wait, what about our honey badger! It didn't get any style. Add a 
+But wait, what about our honey badger! It didn't get any style, but it too is a land creature...
+
++ To fix this, add the "land-creatures" class to the honey badger div.
 
 ### Step five: Select one particular element with an id selector.
 
@@ -139,9 +141,29 @@ What if there's **one** particular element we want to select? For special unique
 
 ```
 
-The code above probably won't look pretty, but notices how it only targets one element. Note the the ID selctor is intended for special cases, and in any page, there should never be two elements with the same id. If you want to select multiple elements, use a class selector.
+The code above probably won't look pretty, but notices how it only targets one element. Note the the ID selector is intended for special cases, and in any page, there should never be two elements with the same id. If you want to select multiple elements, use a class selector.
 
 ### Step six: Google and experiment with some basic CSS elements!
 
+Let's return to our very first site--the hobby page you made for the first HTML lesson.
 
-Here is a list of elements to try with your page! Add a class selector for land-creatures, and
++ Create a new CSS file in your project folder for your styles--make sure it ends in `.css`. For example `hobby-styles.css`
+
+Now it's time to experiment with a variety of CSS properties. For each, you might need to google the name of the property followed by "CSS" to see an example on a site like W3Schools. The best way to learn css is to copy an example and experiment with changing the values.
+
+Below is the list of properties to try. Try to use as many as you can in the remaining time.
+
++ border
++ width
++ height
++ color
++ font-size
++ font-weight
++ font-family
++ text-align
++ background-color
++ margin
++ padding
++ float
++ **challeng** display
++ **challenge** position
