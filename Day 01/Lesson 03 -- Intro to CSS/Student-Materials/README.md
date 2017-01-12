@@ -10,7 +10,7 @@ CSS is ***the*** fundmental way of adding style to your websites, and without it
 
 ### Step 1: Link to your stylesheet.
 
-+ Open up the 'div-style-challenge.html' file. You'll seem a very basic page with some text about animals wrapped in four `<div>` tags.
++ Open up the 'div-style-challenge.html' file. You'll see a very basic page with some text about animals wrapped in four `<div>` tags.
 
 To start adding CSS, we need to link to the css file in our project folder. There's already one created, called "div-styles.css", so we'll link to that file with a `<link>` tag. The `href` attribute will just be "div-styles.css", but we will also need to tell the web browser that this is a css document with a `rel` attribute and a `type` attribute.
 
@@ -27,7 +27,7 @@ The top of your HTML code should look something like this:
   ....
 ```
 
-If you've added the link correctly , when you reload your page you should see that the backgroun turns to a bright magenta! Cool! If you'd like, change the color to a softer, more pleasing `gray` or `dodgerblue`.
+If you've added the link correctly , when you reload your page you should see that the background turns to a bright magenta! Cool! If you'd like, change the color to a softer, more pleasing `gray` or `dodgerblue`.
 There are 140 differnt color names which your web brower can make sense of--basically every crayon color you could want from "cornslik" to "rebeccapurple." You can find a [complete list of colors here](http://www.w3schools.com/colors/colors_names.asp). To change the color, all you need to do is delete the `magenta` from your CSS and replace it with the color of your choice (e.g. `background-color: magenta;`) ***don't forget the semicolon!***
 
 Can't find the exact color you want? Try using a hex color like `#b300b3` or `#0040ff` or find your own with a [hex color picker](http://www.w3schools.com/colors/colors_picker.asp). Or just google "color picker" for a cool tool. CSS also accepts colors in the red-green-blue values like `rgb(66, 134, 244)`. It's a wild, colorful, world out there.
@@ -104,7 +104,7 @@ In your HTML file, you should notice that some of the divs have a `class` attrib
 
 ```
 
-Here, the both the "narwhal" div and the "whale-shark" div have the same class: "sea-creatures". We can select just these two elements witht a special class selector, which is just a period followed by the class name, which in this case is `.sea-creatures` . Classe names can't have spaces, so in this case the classname was given a dash.
+Here, the both the "narwhal" div and the "whale-shark" div have the same class: "sea-creatures". We can select just these two elements with a special class selector, which is just a period followed by the class name, which in this case is `.sea-creatures` . Class names can't have spaces, so in this case the class name was given a dash.
 
 + Add a different background-color to the sea-creatures class with a class selector:
 
@@ -129,7 +129,7 @@ But wait, what about our honey badger! It didn't get any style, but it too is a 
 
 What if there's **one** particular element we want to select? For special unique elements, we can use the **id selector** which is a hashtag followed by the id of the element.
 
-+ Change the pangolin elemnt using a hashtag selector:
++ Change the pangolin element using a hashtag selector:
 
 ```
 #pangolin {
@@ -147,7 +147,7 @@ The code above probably won't look pretty, but notices how it only targets one e
 
 Let's return to our very first site--the hobby page you made for the first HTML lesson.
 
-+ Create a new CSS file in your project folder for your styles--make sure it ends in `.css`. For example `hobby-styles.css`
++ Create a new CSS file in your project folder for your styles--make sure it ends in `.css`. For example `hobby-styles.css` Go ahead and link the CSS file to your HTML page with the `<link>` tag that we learned above.
 
 Now it's time to experiment with a variety of CSS properties. For each, you might need to google the name of the property followed by "CSS" to see an example on a site like W3Schools. The best way to learn css is to copy an example and experiment with changing the values.
 
@@ -168,6 +168,6 @@ Below is the list of properties to try. Try to use as many as you can in the rem
 + margin
 + padding
 + float
-+ **challeng** display
++ **challenge** display
 + **challenge** position
 + Check out this handy [cheat sheet!](https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
