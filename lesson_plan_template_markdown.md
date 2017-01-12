@@ -1,4 +1,4 @@
-<!-- # Lesson 02: HTML Practice Mini-Lab
+
 
 
 ### Objectives and Plan for Assessment
@@ -18,31 +18,31 @@
   <tr>
 		<!-- Focus Question -->
 	  <td valign="top">
-      	How do we write good, clean HTML across multiple pages?
+      	How do we...
     </td>
 
     <!-- SWBAT -->
     <td valign="top">
        <ul>
-          <li> Properly refactor poorly written HTML according to conventions </li>
-          <li> Use links across multiple local pages.  </li>
+          <li> </li>
+          <li> </li>
        </ul>
     </td>
 
     <!-- Students will know that...  -->
     <td valign="top">
       <ul>
-        <li> Child elements  should be indented one tab over to indicate their position as a child element. </li>
-        <li> No element should have a closing tag that is outside the closing tag of its parent. </li>
-        <li> a tags can be used to link to other pages in a student side.  </li>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
       </ul>
     </td>
 
     <!-- Students will think about  -->
     <td valign="top">
       <ul>
-      	 <li> How they should always be writing clean code in keeping with conventions  </li>
-         <li> How they could use their skills to have a multi-paged website.  </li>
+      	 <li>  </li>
+         <li>  </li>
        </ul>
     </td>
   </tr>
@@ -65,6 +65,7 @@
 
     </td>
 
+		<!-- Model assessment Characteristics -->
     <td colspan="2">
       <ul>
         <!-- <li> Accurately recreated boilerplate </li>
@@ -103,8 +104,6 @@
   </tr>
 
 
-
-
   <tr>
     <td> 6. </td>
     <td> 05 minutes </td>
@@ -115,19 +114,21 @@
 
 ### Procedure
 <table>
-
+	<!-- Headings  -->
   <tr>
     <th> Lesson Segment  </th>
     <th colspan="4"> Teacher Actions </th>
     <th colspan="4"> Student Actions </th>
   </tr>
 
-
+	<!-- Do now -->
   <tr>
     <td>
 			<p> <b> Do Now </b></p>
 			<p> (5 min) </p>
 		</td>
+
+		<!-- Do-Now Teacher  -->
     <td colspan="4">
 			<ul>
 				<li> Teacher Welcomes Students, directs them to take an index card, have a seat, and start the do now</li>
@@ -135,6 +136,8 @@
 				<li></li>
 			</ul>
 		</td>
+
+		<!-- Do-Now Student  -->
     <td colspan="4">
 			<ul>
 				<li> </li>
@@ -143,6 +146,8 @@
 		</td>
   </tr>
 
+
+	<!-- Mini-Lesson -->
   <tr>
     <td>
 			<p> <b> Mini-Lesson </b></p>
@@ -175,7 +180,7 @@
 		<!-- Worktime Teacher -->
     <td colspan="4">
 			<ul>
-				<li>As students begin, teacher sets a 15 minute timer on the board to keep the lesson on pace. </li>
+				<li>  </li>
 				<li>Teacher(s) circulate and provide assistance as necessary; teachers should push students to address their own misunderstandings, where possible, by referencing the student guide. </li>
 			</ul>
 		</td>
@@ -184,14 +189,14 @@
 		<!-- Worktime Student -->
     <td colspan="4">
 			<ul>
-				<li> Students access the student guide and start working according to the directions given on the student guide </li>
-				<li> Students' first order of business will be to copy the boilerplate identically as given in the guide. They then can go on to add various elements according to the directions.  </li>
+				<li>  </li>
+				<li>  </li>
 			</ul>
 		</td>
   </tr>
 
+	<!-- Checkin  -->
   <tr>
-		<!-- Checkin  -->
     <td> <p><b>Checkin </b></p> <p> (5 mins)</p>   </td>
 
 		<!-- Checkin Teacher-->
@@ -236,4 +241,4 @@
 		</td>
   </tr>
 
-</table> -->
+</table>
