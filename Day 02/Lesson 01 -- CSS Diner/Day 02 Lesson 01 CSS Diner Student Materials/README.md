@@ -60,7 +60,7 @@ Did you know that elements can have multiple class names? In line 18, for exampl
 ` <div class="group featured">`
 
 
-Let's 
+
 
 
 
