@@ -1,18 +1,3 @@
-
-
-1. Do now: Best code practices
-2. Overview of selectors and demo of how to use the sushi challenge.
-3. 10 minutes for sushi-ing
-4. Checkin
-5. Guided selection challenge where students add properties to various elements.
-  + multiple classes    
-  + Make it restaurant themed.
-  + google fonts
-  + Background images.
-
-5. Closing
-
-
 # Day 2 Lesson 1: The CSS Diner
 
 #### Intro to Front-End Web Development

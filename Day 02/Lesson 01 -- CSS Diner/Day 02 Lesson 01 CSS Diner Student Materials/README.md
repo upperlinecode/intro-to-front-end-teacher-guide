@@ -53,17 +53,37 @@ Let's make our site more beautiful with a little leg work.
 + It's hard to tell how things are arranged on the page the way the owner wants them to be: give every member of the "group" class a `background-color` and a `border`
 +  The "group" class members still feel a little stuffy: give them a few pixels of `padding` to separate their content from their borders and a nice `margin`  of `20px` to give them some elbow room from one another.
 
-### Multiple Classes
+### Elements with multiple classes
 
 Did you know that elements can have multiple class names? In line 18, for example, you will see a div that has a class attribute of "group featured", and because class names can't have spaces, this element has the **group** class, as well as the the **featured** class.:
 
 ` <div class="group featured">`
 
++ Give elements that have BOTH the **group** class and the **featured** class a specially colored background [hint](https://css-tricks.com/multiple-class-id-selectors/)
 
 
+Stop and notice that at this point, there are *two* different CSS selectors that are telling the featured div to have a different colored background color. Since the one with multiple class names is more specific, however, its styles will override, or 'cascade' over the selector with just `.group {...}`
+
+## Multiple types of elements.
+
+So far, we've made some good changes, but the font is still UGLY.
+
++ Select all the **h1** AND **h3** tags with one selector and change the `font-family` to "Helvetica".
+
+Ok, 'Helvetica' is a little better, but it's still not great.
++ Go to [Google Fonts](https://fonts.google.com/)
++ Add a font by clicking the `+` symbol
++ follow the directions on the tab to add the font to your page
+
+![Google Fonts](images/googlefonts.png)
+
+## More challenges
++ Make the `li` elements in the `nav` have `display: inline-block;` property, a special `background-color`,  `border-radius`, `padding`, and `margin-left`
++ Make the `a` elements *within* any `li` element have a special `color`, `font-weight`, and no `text-decoration`
++ Give any element with the class "item-container" that is *inside* a group a `width` of 40% and set the `display` to `inline-block`
 
 
-
+<!-- I can keep adding more here.  -->
 
 <!--
 
