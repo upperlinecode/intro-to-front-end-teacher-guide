@@ -6,6 +6,8 @@
   padding: 20px;
   position: absolute;
   margin: 200px;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 .star {
@@ -49,17 +51,19 @@
   top: -90px;
   background-color: purple;
   border-color: violet;
+  display: none;
 }
 #hova {
   left: 300px;
   top: 260px;
   border-color: brown;
+  display: none;
 }
 
 img.small {
   vertical-align: top;
   /*max-height: 100px;*/
-  height: 50px ;
+  /*height: 50px ;*/
 }
 
 .collage-row {
@@ -69,4 +73,12 @@ img.small {
   overflow-y: hidden;
   margin: 10px;
   background-color: brown;
+}
+
+img.small:hover {
+  position: absolute;
+  width: 300px;
+  left: 0px;
+  top: 0px;
+
 }

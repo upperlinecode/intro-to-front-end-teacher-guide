@@ -49,3 +49,12 @@ Ok, so we've framed our photos with `border`, giving them some breathing room aw
 ## CHALLENGE 1: Overlay photos with absolute Positioning and Z-Index:
 
 ![Overlay](overlay.png)
+
+
+Now that you've gotten your feet wet, create the illusion of depth and layered images  so that your wall looks like the image above.
+
+Properties you'll need (...and probably need to look up on-line :wink: ):
++ box-shadow
++ `position: absolute`
++ z-index
++ top / bottom / left / right
