@@ -286,7 +286,7 @@
     <!-- Worktime Student -->
     <td colspan="4">
       <ul>
-        <li>  </li>
+        <li> Students continue working for duration of class </li>
         <li>  </li>
       </ul>
     </td>

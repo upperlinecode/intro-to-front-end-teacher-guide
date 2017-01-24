@@ -1,0 +1,72 @@
+.frame {
+  display: inline-block;
+  border: 10px inset dodgerblue;
+  background-color: darkgray;
+  /*margin: 30px;*/
+  padding: 20px;
+  position: absolute;
+  margin: 200px;
+}
+
+.star {
+  width: 100px;
+}
+
+.small.star  {
+  width: 50px;
+  /*vertical-align: top;*/
+  /*margin: 5px;*/
+}
+
+.collage-row {
+  /*border: 3px solid white;*/
+  /*padding: 10px;*/
+  /*background-color: dodgerblue;*/
+  /*margin: 10px;*/
+}
+
+.frame.collage {
+  /*display: block;*/
+  /*width: 300px;*/
+  /*float: left;*/
+  /*clear: left;*/
+}
+
+/*
+.star width small
+.star.small really small
+.frame  inline block.
+
+*/
+
+#queen-b, #hova {
+  z-index: 2;
+  box-shadow: 10px 10px 30px black;
+}
+
+#queen-b {
+  left: -80px;
+  top: -90px;
+  background-color: purple;
+  border-color: violet;
+}
+#hova {
+  left: 300px;
+  top: 260px;
+  border-color: brown;
+}
+
+img.small {
+  vertical-align: top;
+  /*max-height: 100px;*/
+  height: 50px ;
+}
+
+.collage-row {
+  height: 50px;
+  border: 2px solid white;
+  padding: 10px;
+  overflow-y: hidden;
+  margin: 10px;
+  background-color: brown;
+}

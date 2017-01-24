@@ -1,13 +1,3 @@
-
-Students first move their images around to directions, then choose their own.
-
-1. Overview: --
-2. Picture framing demo:
-3. Picture framing worktime.
-  + Inline block for groups of photos
-  + Position attributes.
-  + Make pictures Small.
-4. Checkin -- Wireframe.
 5. Layout challenges --  Mondrians. Make a variety
 
 
@@ -34,8 +24,8 @@ Students first move their images around to directions, then choose their own.
     <!-- SWBAT -->
     <td valign="top">
        <ul>
-          <li> </li>
-          <li> </li>
+          <li> Use float to position elements to the left and right </li>
+          <li> Use different position</li>
        </ul>
     </td>
 
