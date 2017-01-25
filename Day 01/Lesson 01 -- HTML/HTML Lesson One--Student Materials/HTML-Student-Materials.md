@@ -14,8 +14,9 @@ The pages you make in this activity will seem very basic, but if you master the 
 Follow the steps below in order, and be sure to read the descriptions of each step so that you know the purpose of each line of code you will be adding. Additionally, ***avoid copying and pasting***; sure, copying and pasting will speed things up, but when you take the time to write the line of code out by yourself you will better engrain it in your memory.  
 
 -----------------
+### Step zero -- Create an HTML file.
 
-
+Before we can start writing HTML, we need a place to put it. Create a file called `hobby-page.html` in your development folder. You can do this by using the `touch` command in the terminal, or by right clicking your file navigator and selecting 'new file'. Once you've done this, open up the file in your text editor.
 
 ### Step one--tell the web browser that you're about to give it a bunch of HTML.
 
